@@ -1,0 +1,2772 @@
+[
+  {
+    "profile": [
+      {
+        "id": "5592ed43-4a07-424c-898a-b714d941c43e",
+        "bio": "Experienced professional in the healthcare industry.",
+        "specialization": "Cardiology",
+        "experience": 80077,
+        "education": "Bachelor of Medicine, University of XYZ",
+        "certifications": "Board Certified Family Nurse Practitioner",
+        "created_at": "2023-08-25T08:38:09.004Z",
+        "updated_at": "2023-08-25T09:20:30.374Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b0f96fde-9b74-4bea-a48b-0f8bb326166f",
+        "bio": "Passionate about providing quality patient care.",
+        "specialization": "Pediatrics",
+        "experience": 88422,
+        "education": "Master of Science in Nursing, University of ABC",
+        "certifications": "Certified Medical Coder",
+        "created_at": "2023-08-24T16:17:53.895Z",
+        "updated_at": "2023-08-24T17:03:36.111Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d4e45d78-b8c7-42e2-99de-65cd0c1e7cbc",
+        "bio": "Dedicated to continuous learning and professional development.",
+        "specialization": "Orthopedics",
+        "experience": 88094,
+        "education": "Doctor of Pharmacy, University of PQR",
+        "certifications": "Advanced Cardiac Life Support (ACLS) certified",
+        "created_at": "2023-08-24T23:37:34.192Z",
+        "updated_at": "2023-08-25T10:13:02.210Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7dd6fc07-84de-4c0a-af2a-eb30ef68a0bb",
+        "bio": "Committed to improving healthcare outcomes.",
+        "specialization": "Dermatology",
+        "experience": 58336,
+        "education": "Bachelor of Dental Surgery, University of DEF",
+        "certifications": "Certified Pharmacy Technician",
+        "created_at": "2023-08-24T23:52:26.712Z",
+        "updated_at": "2023-08-25T03:48:08.099Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c0ed0600-bb74-4b5d-822f-c48d37ed9c33",
+        "bio": "Skilled in using advanced medical technologies.",
+        "specialization": "Neurology",
+        "experience": 92349,
+        "education": "Bachelor of Science in Physical Therapy, University of GHI",
+        "certifications": "Certified Occupational Therapist",
+        "created_at": "2023-08-24T12:58:34.226Z",
+        "updated_at": "2023-08-25T01:29:18.342Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "patient_record": [
+      {
+        "id": "5d52477d-52cf-4f14-9849-6a4a4d076627",
+        "medical_history": "No significant medical history.",
+        "current_condition": "Common cold",
+        "medications": "Acetaminophen",
+        "allergies": "Pollen",
+        "immunization_record": "Influenza vaccine",
+        "created_at": "2023-08-25T01:37:18.937Z",
+        "updated_at": "2023-08-24T20:42:01.282Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "baa3b4d8-2b72-4199-b972-cb382c5c49a7",
+        "medical_history": "History of asthma and allergies.",
+        "current_condition": "Sprained ankle",
+        "medications": "Amoxicillin",
+        "allergies": "Penicillin",
+        "immunization_record": "Measles, mumps, and rubella (MMR) vaccine",
+        "created_at": "2023-08-24T16:13:24.333Z",
+        "updated_at": "2023-08-25T08:23:25.022Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "5f64d3a0-2343-4447-92c1-978600da6bea",
+        "medical_history": "Previous surgery for appendicitis.",
+        "current_condition": "Migraine headache",
+        "medications": "Ibuprofen",
+        "allergies": "Shellfish",
+        "immunization_record": "Hepatitis B vaccine",
+        "created_at": "2023-08-24T12:18:46.742Z",
+        "updated_at": "2023-08-24T19:37:13.507Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "7bced16b-4fa6-49cc-8422-04cc584528c3",
+        "medical_history": "Family history of heart disease.",
+        "current_condition": "Stomach flu",
+        "medications": "Lisinopril",
+        "allergies": "Dust mites",
+        "immunization_record": "Tetanus, diphtheria, and pertussis (Tdap) vaccine",
+        "created_at": "2023-08-25T05:27:08.118Z",
+        "updated_at": "2023-08-24T20:34:25.083Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "0fb0739e-f6f3-4848-b58f-569f99ec90ec",
+        "medical_history": "History of hypertension and diabetes.",
+        "current_condition": "Seasonal allergies",
+        "medications": "Metformin",
+        "allergies": "Latex",
+        "immunization_record": "Pneumococcal vaccine",
+        "created_at": "2023-08-24T22:47:56.318Z",
+        "updated_at": "2023-08-25T07:40:45.260Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      }
+    ],
+    "insurance_plan": [
+      {
+        "id": "9ce1dc20-3d68-4341-8d50-a09db49352ad",
+        "plan_name": "Gold Plan",
+        "coverage": 82848,
+        "premium": 13636,
+        "deductible": 44968,
+        "out_of_pocket_maximum": 22406,
+        "created_at": "2023-08-24T23:53:16.829Z",
+        "updated_at": "2023-08-25T06:36:10.552Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "ad81ab4b-e043-4453-bb60-5fe99d0315ea",
+        "plan_name": "Silver Plan",
+        "coverage": 2800,
+        "premium": 42180,
+        "deductible": 10433,
+        "out_of_pocket_maximum": 72438,
+        "created_at": "2023-08-24T21:50:39.906Z",
+        "updated_at": "2023-08-25T00:06:27.753Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "df7d7a7b-44e6-4867-8735-f90bbb936d02",
+        "plan_name": "Bronze Plan",
+        "coverage": 51281,
+        "premium": 88794,
+        "deductible": 96405,
+        "out_of_pocket_maximum": 81644,
+        "created_at": "2023-08-25T01:34:20.331Z",
+        "updated_at": "2023-08-25T05:32:57.109Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "fbfd9f0e-9108-4a44-8064-250538579ac1",
+        "plan_name": "Platinum Plan",
+        "coverage": 93153,
+        "premium": 44757,
+        "deductible": 26832,
+        "out_of_pocket_maximum": 50745,
+        "created_at": "2023-08-25T07:07:08.370Z",
+        "updated_at": "2023-08-24T20:01:54.252Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "5572f71c-4462-4dcf-b60c-85644862d404",
+        "plan_name": "Catastrophic Plan",
+        "coverage": 49532,
+        "premium": 63839,
+        "deductible": 99683,
+        "out_of_pocket_maximum": 64916,
+        "created_at": "2023-08-24T23:03:55.027Z",
+        "updated_at": "2023-08-24T19:26:52.740Z",
+        "insurance_provider_id": "user_entity_pk"
+      }
+    ],
+    "appointment": [
+      {
+        "id": "45baf27c-4736-4f81-995b-f5fd333d686a",
+        "date": "2023-08-24T21:28:18.179Z",
+        "time": "2023-08-24T16:18:14.708Z",
+        "status": "Scheduled",
+        "created_at": "2023-08-24T20:34:57.996Z",
+        "updated_at": "2023-08-25T05:38:44.806Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "58ecb129-1714-4219-a02b-f72ceae9196a",
+        "date": "2023-08-25T07:40:52.561Z",
+        "time": "2023-08-24T21:02:39.394Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-24T14:14:08.699Z",
+        "updated_at": "2023-08-24T18:18:28.428Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "4a3e3221-19c2-4069-aeab-8cc869f92008",
+        "date": "2023-08-24T12:22:29.906Z",
+        "time": "2023-08-24T18:21:04.166Z",
+        "status": "Completed",
+        "created_at": "2023-08-24T19:15:42.051Z",
+        "updated_at": "2023-08-24T16:52:45.037Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "a65a9ac5-deb2-44da-bb65-c811560485e7",
+        "date": "2023-08-25T00:50:48.578Z",
+        "time": "2023-08-24T23:15:26.937Z",
+        "status": "Rescheduled",
+        "created_at": "2023-08-24T21:59:31.835Z",
+        "updated_at": "2023-08-25T05:30:59.537Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "d6e29cf3-ddc0-421b-aa02-5b3be2c2b9f8",
+        "date": "2023-08-24T18:39:06.188Z",
+        "time": "2023-08-24T22:53:29.072Z",
+        "status": "No Show",
+        "created_at": "2023-08-25T02:59:15.439Z",
+        "updated_at": "2023-08-25T05:52:25.481Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "461bea0e-35b4-4b97-ab34-d1f50ac8ad6b",
+        "email": "Lenore_Crooks@gmail.com",
+        "firstName": "Janiya",
+        "lastName": "Torphy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37142624",
+        "tenantId": null
+      },
+      {
+        "reference": "ee98b9aa-35f2-48a3-980f-917a608cdf10",
+        "email": "Claudie41@gmail.com",
+        "firstName": "Fredrick",
+        "lastName": "Leannon",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/937.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9e0081c8-4214-4e91-8d58-757e8b32e77b",
+        "email": "Betty60@hotmail.com",
+        "firstName": "Addie",
+        "lastName": "Casper",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67884343",
+        "tenantId": null
+      },
+      {
+        "reference": "4c6ef72f-701b-45fc-bef8-7b79df6c6942",
+        "email": "Alivia_Hansen50@gmail.com",
+        "firstName": "Rashawn",
+        "lastName": "Kuhlman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/862.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "96a6c545-1440-49be-976c-3fa83f1a9763",
+        "email": "Evie2@gmail.com",
+        "firstName": "Grace",
+        "lastName": "Zboncak",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/155.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "profile": [
+      {
+        "id": "4ef2dc45-79ae-4e75-980b-fc43874f342e",
+        "bio": "Experienced professional in the healthcare industry",
+        "specialization": "Cardiology",
+        "experience": 34702,
+        "education": "Bachelor of Medicine, University of XYZ",
+        "certifications": "Board Certified Family Physician",
+        "created_at": "2023-08-24T20:27:13.088Z",
+        "updated_at": "2023-08-25T08:35:33.457Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9e529c6-316e-40d5-b082-07916d96ef31",
+        "bio": "Passionate about providing quality care to patients",
+        "specialization": "Pediatrics",
+        "experience": 41229,
+        "education": "Master of Science in Nursing, University of ABC",
+        "certifications": "Advanced Cardiovascular Life Support (ACLS)",
+        "created_at": "2023-08-24T14:30:39.353Z",
+        "updated_at": "2023-08-24T19:34:40.097Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0c399efd-5829-48bd-b851-dd029ed6861f",
+        "bio": "Dedicated to continuous learning and professional development",
+        "specialization": "Orthopedics",
+        "experience": 92383,
+        "education": "Doctor of Pharmacy, University of DEF",
+        "certifications": "Certified Pediatric Nurse",
+        "created_at": "2023-08-24T15:12:48.724Z",
+        "updated_at": "2023-08-24T22:22:10.985Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8fe60b94-c632-4f02-bb94-822522d7f64e",
+        "bio": "Skilled in various medical procedures",
+        "specialization": "Dermatology",
+        "experience": 11913,
+        "education": "Bachelor of Dental Surgery, University of GHI",
+        "certifications": "American Board of Dermatology",
+        "created_at": "2023-08-24T13:23:12.574Z",
+        "updated_at": "2023-08-25T10:12:10.916Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "86ab5907-b572-4fe2-adfb-04c3595d72de",
+        "bio": "Committed to patient satisfaction",
+        "specialization": "Ophthalmology",
+        "experience": 12471,
+        "education": "Master of Physical Therapy, University of JKL",
+        "certifications": "Certified Ophthalmic Technician",
+        "created_at": "2023-08-25T08:05:11.536Z",
+        "updated_at": "2023-08-24T16:53:19.391Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "patient_record": [
+      {
+        "id": "3fac89dd-56c4-4b51-8114-93f78957e038",
+        "medical_history": "No significant medical history",
+        "current_condition": "Common cold",
+        "medications": "Lisinopril",
+        "allergies": "Peanuts",
+        "immunization_record": "Influenza vaccine",
+        "created_at": "2023-08-24T22:13:28.158Z",
+        "updated_at": "2023-08-25T02:10:56.544Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "eebd9e23-8a47-4434-940a-2ba085def565",
+        "medical_history": "History of asthma",
+        "current_condition": "Sprained ankle",
+        "medications": "Ibuprofen",
+        "allergies": "Shellfish",
+        "immunization_record": "Tetanus-diphtheria-pertussis (Tdap) vaccine",
+        "created_at": "2023-08-25T00:15:30.979Z",
+        "updated_at": "2023-08-24T18:41:47.182Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "92df0040-b85e-4073-ac48-0b4f3088829a",
+        "medical_history": "Previous heart surgery",
+        "current_condition": "High blood pressure",
+        "medications": "Levothyroxine",
+        "allergies": "Latex",
+        "immunization_record": "Measles-mumps-rubella (MMR) vaccine",
+        "created_at": "2023-08-24T21:13:29.669Z",
+        "updated_at": "2023-08-25T10:39:49.627Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "87d20aa2-94b4-4808-959f-3eecdfb931c7",
+        "medical_history": "Allergic to penicillin",
+        "current_condition": "Seasonal allergies",
+        "medications": "Metformin",
+        "allergies": "Dust mites",
+        "immunization_record": "Hepatitis B vaccine",
+        "created_at": "2023-08-25T01:41:55.964Z",
+        "updated_at": "2023-08-24T19:02:50.948Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "d902b2a3-2b7b-4df3-b750-8b1bab292a5f",
+        "medical_history": "Diagnosed with diabetes",
+        "current_condition": "Back pain",
+        "medications": "Simvastatin",
+        "allergies": "Bee stings",
+        "immunization_record": "Pneumococcal conjugate vaccine",
+        "created_at": "2023-08-24T14:52:00.448Z",
+        "updated_at": "2023-08-25T01:57:17.741Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      }
+    ],
+    "insurance_plan": [
+      {
+        "id": "2eacdefc-1e50-42ad-8bbf-e59edd270890",
+        "plan_name": "Gold Plan",
+        "coverage": 70804,
+        "premium": 1808,
+        "deductible": 33900,
+        "out_of_pocket_maximum": 18464,
+        "created_at": "2023-08-25T04:56:30.174Z",
+        "updated_at": "2023-08-25T02:54:17.210Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "43f7c0c3-378a-4ba1-8b18-9bdb0f74f50b",
+        "plan_name": "Silver Plan",
+        "coverage": 23243,
+        "premium": 23313,
+        "deductible": 80998,
+        "out_of_pocket_maximum": 52546,
+        "created_at": "2023-08-25T06:46:36.985Z",
+        "updated_at": "2023-08-25T10:35:58.800Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "4b654c7b-b75c-4b77-9169-07f296692360",
+        "plan_name": "Bronze Plan",
+        "coverage": 33200,
+        "premium": 33,
+        "deductible": 92144,
+        "out_of_pocket_maximum": 47454,
+        "created_at": "2023-08-24T18:28:19.931Z",
+        "updated_at": "2023-08-25T04:48:42.390Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "8676192e-4566-4c7d-9ef8-ea72c75ec2fa",
+        "plan_name": "Platinum Plan",
+        "coverage": 53328,
+        "premium": 41548,
+        "deductible": 26754,
+        "out_of_pocket_maximum": 33213,
+        "created_at": "2023-08-25T00:41:44.382Z",
+        "updated_at": "2023-08-25T08:06:59.588Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "5317c998-87f9-4867-a3dc-9cd8c7061249",
+        "plan_name": "Catastrophic Plan",
+        "coverage": 84606,
+        "premium": 38880,
+        "deductible": 83704,
+        "out_of_pocket_maximum": 94222,
+        "created_at": "2023-08-25T03:58:33.835Z",
+        "updated_at": "2023-08-24T18:58:25.581Z",
+        "insurance_provider_id": "user_entity_pk"
+      }
+    ],
+    "appointment": [
+      {
+        "id": "b866e303-6a41-46f4-bfdd-d239c6748649",
+        "date": "2023-08-25T00:49:48.572Z",
+        "time": "2023-08-25T11:45:00.145Z",
+        "status": "Scheduled",
+        "created_at": "2023-08-24T23:36:42.371Z",
+        "updated_at": "2023-08-24T13:56:34.350Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "c408d3c6-d184-43a9-92ef-7e8cae840acb",
+        "date": "2023-08-25T10:02:30.043Z",
+        "time": "2023-08-24T22:49:40.601Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-24T19:25:47.579Z",
+        "updated_at": "2023-08-25T00:36:34.105Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "899746eb-c367-4207-82b8-474e8276904c",
+        "date": "2023-08-25T09:46:39.210Z",
+        "time": "2023-08-24T14:25:52.229Z",
+        "status": "Completed",
+        "created_at": "2023-08-25T04:33:28.959Z",
+        "updated_at": "2023-08-24T18:00:46.492Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "0f651bd1-9853-42c6-9935-e6c0bacfd321",
+        "date": "2023-08-25T10:24:38.567Z",
+        "time": "2023-08-25T00:59:34.963Z",
+        "status": "Rescheduled",
+        "created_at": "2023-08-25T00:05:06.427Z",
+        "updated_at": "2023-08-25T03:35:02.289Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "5baa8ef0-779c-432d-b611-e0cc76c183f7",
+        "date": "2023-08-24T17:41:33.293Z",
+        "time": "2023-08-24T12:23:03.902Z",
+        "status": "Pending",
+        "created_at": "2023-08-24T23:53:12.161Z",
+        "updated_at": "2023-08-25T04:53:49.428Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0e2c556d-e909-4922-9994-db2ad5f37ff8",
+        "email": "Alexie.Corwin@yahoo.com",
+        "firstName": "Ariel",
+        "lastName": "Hills",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92500057",
+        "tenantId": null
+      },
+      {
+        "reference": "817210f5-53c3-400a-a006-be94d493112e",
+        "email": "Consuelo3@yahoo.com",
+        "firstName": "Sanford",
+        "lastName": "Mills",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38111851",
+        "tenantId": null
+      },
+      {
+        "reference": "598c7d72-22cb-490a-9e94-4ab928cca29a",
+        "email": "Brooklyn.Macejkovic68@yahoo.com",
+        "firstName": "Rolando",
+        "lastName": "Parisian",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/483.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a5fd54f9-785d-4f28-b37d-fc5908305cbf",
+        "email": "Reagan10@hotmail.com",
+        "firstName": "Lempi",
+        "lastName": "Fritsch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4558511",
+        "tenantId": null
+      },
+      {
+        "reference": "6756918b-246a-460c-acc0-431bc595db27",
+        "email": "Jettie_Schimmel@hotmail.com",
+        "firstName": "Edyth",
+        "lastName": "Toy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1090.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "profile": [
+      {
+        "id": "1df76fb4-1db9-4a31-a924-935753af41e5",
+        "bio": "Experienced professional in the healthcare industry",
+        "specialization": "Cardiology",
+        "experience": 89606,
+        "education": "Bachelor of Science in Nursing",
+        "certifications": "Certified Registered Nurse",
+        "created_at": "2023-08-25T10:19:27.325Z",
+        "updated_at": "2023-08-24T20:07:17.598Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b8b49271-4ee1-4c87-9c90-e216cc407110",
+        "bio": "Passionate about providing quality patient care",
+        "specialization": "Dermatology",
+        "experience": 5304,
+        "education": "Doctor of Medicine",
+        "certifications": "Board Certified Dermatologist",
+        "created_at": "2023-08-24T14:58:26.426Z",
+        "updated_at": "2023-08-25T06:27:18.942Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "24b34b4d-4d08-4bff-8625-ea1624c43bca",
+        "bio": "Dedicated to continuous learning and professional development",
+        "specialization": "Neurology",
+        "experience": 76284,
+        "education": "Master of Science in Physical Therapy",
+        "certifications": "Licensed Physical Therapist",
+        "created_at": "2023-08-24T20:35:20.108Z",
+        "updated_at": "2023-08-25T07:44:59.796Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f2b6e2d-9eb7-4636-bc4d-0b22bc1f61ac",
+        "bio": "Committed to improving healthcare outcomes",
+        "specialization": "Pediatrics",
+        "experience": 7748,
+        "education": "Bachelor of Pharmacy",
+        "certifications": "Registered Pharmacist",
+        "created_at": "2023-08-25T05:28:20.642Z",
+        "updated_at": "2023-08-24T17:37:29.166Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "640036cd-bbb3-4669-a83a-f1a6b75d66d5",
+        "bio": "Skilled in using advanced medical technology",
+        "specialization": "Orthopedics",
+        "experience": 84545,
+        "education": "Master of Science in Psychology",
+        "certifications": "Certified Mental Health Counselor",
+        "created_at": "2023-08-25T06:08:13.479Z",
+        "updated_at": "2023-08-24T21:33:27.472Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "patient_record": [
+      {
+        "id": "92f5a537-6167-4372-88bd-0fd5b1434e2b",
+        "medical_history": "No significant medical history",
+        "current_condition": "High blood pressure",
+        "medications": "Lisinopril",
+        "allergies": "Peanuts",
+        "immunization_record": "Influenza vaccine",
+        "created_at": "2023-08-24T20:53:26.723Z",
+        "updated_at": "2023-08-24T18:05:44.400Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "1d1eb4e2-6299-4fcc-af78-42a5cbc9d11a",
+        "medical_history": "History of asthma",
+        "current_condition": "Diabetes type 2",
+        "medications": "Metformin",
+        "allergies": "Shellfish",
+        "immunization_record": "Tetanus booster",
+        "created_at": "2023-08-25T00:09:50.151Z",
+        "updated_at": "2023-08-24T16:39:54.619Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "c8a19885-3079-4e55-a346-d8e1db938106",
+        "medical_history": "Previous surgery for appendicitis",
+        "current_condition": "Chronic back pain",
+        "medications": "Ibuprofen",
+        "allergies": "Dust mites",
+        "immunization_record": "Hepatitis B vaccine",
+        "created_at": "2023-08-24T13:58:57.888Z",
+        "updated_at": "2023-08-24T17:16:37.306Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "99f42c98-7763-4b2a-83a7-f6892be4ed42",
+        "medical_history": "Family history of diabetes",
+        "current_condition": "Seasonal allergies",
+        "medications": "Flonase",
+        "allergies": "Pollen",
+        "immunization_record": "MMR vaccine",
+        "created_at": "2023-08-24T13:48:05.619Z",
+        "updated_at": "2023-08-25T04:27:26.845Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "757c3a3a-1162-4010-b6e9-679fac9013a5",
+        "medical_history": "Allergic to penicillin",
+        "current_condition": "Anxiety disorder",
+        "medications": "Sertraline",
+        "allergies": "Latex",
+        "immunization_record": "Pneumococcal vaccine",
+        "created_at": "2023-08-25T09:42:15.512Z",
+        "updated_at": "2023-08-25T10:06:47.838Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      }
+    ],
+    "insurance_plan": [
+      {
+        "id": "6102248c-00b3-4b86-93f7-bee32b61561c",
+        "plan_name": "Gold Plan",
+        "coverage": 6671,
+        "premium": 89395,
+        "deductible": 69006,
+        "out_of_pocket_maximum": 49141,
+        "created_at": "2023-08-24T19:11:58.672Z",
+        "updated_at": "2023-08-25T07:32:26.802Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "3970140f-5de9-4e24-b0a9-7a13cf04e091",
+        "plan_name": "Silver Plan",
+        "coverage": 40700,
+        "premium": 59485,
+        "deductible": 7150,
+        "out_of_pocket_maximum": 41828,
+        "created_at": "2023-08-25T07:30:23.708Z",
+        "updated_at": "2023-08-24T14:25:59.252Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "4e75c190-a124-45b0-8d38-ac618a7d2d3e",
+        "plan_name": "Bronze Plan",
+        "coverage": 24647,
+        "premium": 34205,
+        "deductible": 25704,
+        "out_of_pocket_maximum": 77943,
+        "created_at": "2023-08-24T13:00:48.388Z",
+        "updated_at": "2023-08-25T06:52:46.970Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "5c72fea0-3be5-4ea6-95ab-88403f9160f4",
+        "plan_name": "Platinum Plan",
+        "coverage": 55814,
+        "premium": 1307,
+        "deductible": 21721,
+        "out_of_pocket_maximum": 12901,
+        "created_at": "2023-08-24T21:34:18.995Z",
+        "updated_at": "2023-08-24T20:58:18.792Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "6f5e1e88-931c-4deb-84ee-fd9657a06d47",
+        "plan_name": "Catastrophic Plan",
+        "coverage": 43840,
+        "premium": 25287,
+        "deductible": 2888,
+        "out_of_pocket_maximum": 17973,
+        "created_at": "2023-08-25T06:12:52.429Z",
+        "updated_at": "2023-08-24T13:59:32.434Z",
+        "insurance_provider_id": "user_entity_pk"
+      }
+    ],
+    "appointment": [
+      {
+        "id": "a498c482-eef2-4f63-bf75-198de81b0018",
+        "date": "2023-08-24T15:32:05.984Z",
+        "time": "2023-08-25T03:35:41.246Z",
+        "status": "Scheduled",
+        "created_at": "2023-08-25T11:34:03.444Z",
+        "updated_at": "2023-08-24T21:56:52.512Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "83a1c59a-2b81-4217-adb5-8036c36e4eff",
+        "date": "2023-08-25T11:38:42.596Z",
+        "time": "2023-08-25T09:32:02.054Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-25T01:26:13.392Z",
+        "updated_at": "2023-08-25T10:30:46.883Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "ba231964-d053-4862-91ef-c90dc1a39123",
+        "date": "2023-08-25T10:47:53.003Z",
+        "time": "2023-08-25T02:19:21.095Z",
+        "status": "Completed",
+        "created_at": "2023-08-25T04:52:16.558Z",
+        "updated_at": "2023-08-25T10:53:49.570Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "e0a16425-c72c-4d37-9558-7e0ed6441829",
+        "date": "2023-08-25T02:53:44.457Z",
+        "time": "2023-08-25T07:21:14.511Z",
+        "status": "Rescheduled",
+        "created_at": "2023-08-25T04:13:14.422Z",
+        "updated_at": "2023-08-24T22:03:21.277Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "0e4aff2a-f226-45ba-a5c8-a62d2473aa9e",
+        "date": "2023-08-25T07:54:31.813Z",
+        "time": "2023-08-24T18:37:42.081Z",
+        "status": "No-show",
+        "created_at": "2023-08-24T15:42:42.851Z",
+        "updated_at": "2023-08-25T03:15:17.440Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c77daeaa-ef29-44dd-b0dc-c14897bca57d",
+        "email": "Lavinia_Schulist@yahoo.com",
+        "firstName": "Louisa",
+        "lastName": "Hilpert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/631.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "05d2a38c-8e17-413c-b776-68601396dbea",
+        "email": "Gabriel70@hotmail.com",
+        "firstName": "Adam",
+        "lastName": "Ernser",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/204.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d326d021-4d33-4160-903b-08d6d2490dc6",
+        "email": "Raoul_Russel73@gmail.com",
+        "firstName": "Rosalee",
+        "lastName": "Bayer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1081.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "183c7601-2f7e-4637-98a9-403438d2a459",
+        "email": "Mollie.Dietrich99@yahoo.com",
+        "firstName": "Elda",
+        "lastName": "Mante",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31325771",
+        "tenantId": null
+      },
+      {
+        "reference": "f94e98d7-e1b0-4784-876c-e3a942f83983",
+        "email": "Laila.Kuvalis-Okuneva31@hotmail.com",
+        "firstName": "Hermann",
+        "lastName": "Bailey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98277120",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "profile": [
+      {
+        "id": "fe1dd7f6-ef27-431e-b802-244a7135c021",
+        "bio": "Experienced professional with a passion for healthcare.",
+        "specialization": "Cardiology",
+        "experience": 54246,
+        "education": "Bachelor of Medicine, University of XYZ",
+        "certifications": "Board Certified in Internal Medicine",
+        "created_at": "2023-08-24T20:38:20.425Z",
+        "updated_at": "2023-08-25T09:41:08.984Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "683d61be-1f95-4d3a-9933-f805876d549f",
+        "bio": "Dedicated to providing quality patient care.",
+        "specialization": "Pediatrics",
+        "experience": 50903,
+        "education": "Master of Science in Nursing, University of ABC",
+        "certifications": "Certified Pediatric Nurse Practitioner",
+        "created_at": "2023-08-25T06:15:41.592Z",
+        "updated_at": "2023-08-25T04:24:40.886Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f22c9532-023c-4463-b57d-4c916242d2f2",
+        "bio": "Committed to continuous learning and professional development.",
+        "specialization": "Dermatology",
+        "experience": 39433,
+        "education": "Doctor of Osteopathic Medicine, University of DEF",
+        "certifications": "Fellow of the American College of Surgeons",
+        "created_at": "2023-08-25T09:32:11.336Z",
+        "updated_at": "2023-08-24T23:40:53.031Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f057b4dc-8dde-4d18-8c7e-9ec91f4416c9",
+        "bio": "Skilled in diagnosing and treating various medical conditions.",
+        "specialization": "Orthopedics",
+        "experience": 100,
+        "education": "Bachelor of Science in Pharmacy, University of GHI",
+        "certifications": "Certified Diabetes Educator",
+        "created_at": "2023-08-24T12:22:58.312Z",
+        "updated_at": "2023-08-25T02:31:31.084Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15e3fa37-5f07-4d9c-b41a-e58dd97b8397",
+        "bio": "Strong advocate for patient rights and well-being.",
+        "specialization": "Gynecology",
+        "experience": 75136,
+        "education": "Master of Public Health, University of JKL",
+        "certifications": "Certified Registered Nurse Anesthetist",
+        "created_at": "2023-08-24T15:38:47.483Z",
+        "updated_at": "2023-08-24T14:01:18.960Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "patient_record": [
+      {
+        "id": "25d38248-2fe4-4811-8f89-d4933023567b",
+        "medical_history": "No significant medical history.",
+        "current_condition": "Common cold",
+        "medications": "Aspirin",
+        "allergies": "Pollen",
+        "immunization_record": "Influenza vaccine",
+        "created_at": "2023-08-25T01:05:34.927Z",
+        "updated_at": "2023-08-25T08:28:09.486Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "15b2cc4b-9c06-4500-99fa-978459f5c121",
+        "medical_history": "History of asthma.",
+        "current_condition": "Sprained ankle",
+        "medications": "Ibuprofen",
+        "allergies": "Dust mites",
+        "immunization_record": "Tetanus booster",
+        "created_at": "2023-08-24T15:41:31.585Z",
+        "updated_at": "2023-08-25T00:26:55.794Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "d60affbe-05a6-4c13-8b8d-78a129850c3a",
+        "medical_history": "Previous surgery for appendicitis.",
+        "current_condition": "High blood pressure",
+        "medications": "Lisinopril",
+        "allergies": "Peanuts",
+        "immunization_record": "Hepatitis B vaccine",
+        "created_at": "2023-08-24T15:22:27.905Z",
+        "updated_at": "2023-08-24T19:09:11.005Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "6deb835f-61c3-4be8-a1ec-83bb8faa853f",
+        "medical_history": "Family history of heart disease.",
+        "current_condition": "Diabetes",
+        "medications": "Metformin",
+        "allergies": "Shellfish",
+        "immunization_record": "MMR vaccine",
+        "created_at": "2023-08-24T22:03:35.831Z",
+        "updated_at": "2023-08-24T17:23:13.977Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "f9460bf0-3eae-4098-9040-d4f61914c271",
+        "medical_history": "Allergic to penicillin.",
+        "current_condition": "Migraine",
+        "medications": "Sumatriptan",
+        "allergies": "Latex",
+        "immunization_record": "Pneumococcal vaccine",
+        "created_at": "2023-08-24T15:04:55.347Z",
+        "updated_at": "2023-08-24T22:59:10.676Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      }
+    ],
+    "insurance_plan": [
+      {
+        "id": "4981b699-3d47-4154-9882-cdbf851230bd",
+        "plan_name": "Gold Plan",
+        "coverage": 17923,
+        "premium": 36484,
+        "deductible": 50480,
+        "out_of_pocket_maximum": 67158,
+        "created_at": "2023-08-25T09:01:32.590Z",
+        "updated_at": "2023-08-25T01:45:11.937Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "c1227838-6f2b-4559-bf53-b05c5b7ae7e2",
+        "plan_name": "Silver Plan",
+        "coverage": 64422,
+        "premium": 19567,
+        "deductible": 84483,
+        "out_of_pocket_maximum": 64619,
+        "created_at": "2023-08-24T15:27:55.432Z",
+        "updated_at": "2023-08-24T20:40:02.671Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "27f582c6-d61f-4dc2-8c27-2895c8ec9ca9",
+        "plan_name": "Bronze Plan",
+        "coverage": 70542,
+        "premium": 70844,
+        "deductible": 88954,
+        "out_of_pocket_maximum": 66130,
+        "created_at": "2023-08-24T13:07:20.928Z",
+        "updated_at": "2023-08-24T23:55:20.193Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "9148e7fb-a929-48ad-86eb-dea968acc6ab",
+        "plan_name": "Platinum Plan",
+        "coverage": 70917,
+        "premium": 374,
+        "deductible": 11959,
+        "out_of_pocket_maximum": 61163,
+        "created_at": "2023-08-24T15:54:34.048Z",
+        "updated_at": "2023-08-25T02:48:51.255Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "a4236dec-ec67-4283-b107-fc027d973fd1",
+        "plan_name": "Catastrophic Plan",
+        "coverage": 46558,
+        "premium": 49719,
+        "deductible": 77879,
+        "out_of_pocket_maximum": 78680,
+        "created_at": "2023-08-24T16:56:43.107Z",
+        "updated_at": "2023-08-24T23:17:10.148Z",
+        "insurance_provider_id": "user_entity_pk"
+      }
+    ],
+    "appointment": [
+      {
+        "id": "4bd5b830-2474-4f16-8765-f1feb666a1ae",
+        "date": "2023-08-25T00:48:23.995Z",
+        "time": "2023-08-25T09:39:03.881Z",
+        "status": "Scheduled",
+        "created_at": "2023-08-24T19:06:02.687Z",
+        "updated_at": "2023-08-25T04:27:48.494Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "cd724222-f360-4c9d-9347-8569f17d9d13",
+        "date": "2023-08-24T15:19:09.950Z",
+        "time": "2023-08-25T01:42:01.823Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-24T21:32:45.732Z",
+        "updated_at": "2023-08-24T21:54:49.844Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "24187cb5-6542-4d4c-bb7a-4b81c33fe84d",
+        "date": "2023-08-25T09:40:29.242Z",
+        "time": "2023-08-24T16:20:18.819Z",
+        "status": "Completed",
+        "created_at": "2023-08-24T16:58:49.415Z",
+        "updated_at": "2023-08-24T19:03:20.903Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "3c00564e-2013-437b-b821-450564c11d02",
+        "date": "2023-08-24T23:37:47.349Z",
+        "time": "2023-08-24T19:24:22.093Z",
+        "status": "Rescheduled",
+        "created_at": "2023-08-25T06:22:20.814Z",
+        "updated_at": "2023-08-25T11:18:46.532Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "fde9a821-338d-4914-9de2-ee4931763509",
+        "date": "2023-08-24T19:32:52.645Z",
+        "time": "2023-08-25T07:30:04.867Z",
+        "status": "No Show",
+        "created_at": "2023-08-25T11:15:07.825Z",
+        "updated_at": "2023-08-25T05:38:21.137Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e7cba6a0-1c18-4df9-99a5-e125e33a3965",
+        "email": "Jeromy.Metz64@gmail.com",
+        "firstName": "Joesph",
+        "lastName": "D'Amore-Bauch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/911.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "406d34cf-3ca7-49b9-b684-608e78072e5c",
+        "email": "Winnifred_Rau43@gmail.com",
+        "firstName": "Felipa",
+        "lastName": "Abbott",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93345048",
+        "tenantId": null
+      },
+      {
+        "reference": "659039d9-8feb-4f64-b380-d8c429caf626",
+        "email": "Priscilla.OHara5@gmail.com",
+        "firstName": "Lizeth",
+        "lastName": "Bergstrom",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/683.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c850b8bb-b746-4389-8b5a-66f3e437b3ec",
+        "email": "Camron.Schiller51@hotmail.com",
+        "firstName": "Zakary",
+        "lastName": "Jones",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86192031",
+        "tenantId": null
+      },
+      {
+        "reference": "a6a45927-832d-4bf5-8924-6c57609baf5a",
+        "email": "Isac18@yahoo.com",
+        "firstName": "Hulda",
+        "lastName": "Considine",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/930.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "profile": [
+      {
+        "id": "047a04cc-deac-4900-840a-099a78bff666",
+        "bio": "Experienced professional in the healthcare industry",
+        "specialization": "Cardiology",
+        "experience": 80339,
+        "education": "Bachelor of Science in Nursing",
+        "certifications": "Advanced Cardiac Life Support (ACLS)",
+        "created_at": "2023-08-25T02:35:44.471Z",
+        "updated_at": "2023-08-25T07:57:23.127Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a78fa34b-6894-4fa7-b353-b40177e6579d",
+        "bio": "Passionate about providing quality patient care",
+        "specialization": "Dermatology",
+        "experience": 29097,
+        "education": "Doctor of Medicine",
+        "certifications": "Certified Diabetes Educator (CDE)",
+        "created_at": "2023-08-25T09:23:58.824Z",
+        "updated_at": "2023-08-24T18:39:48.780Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "995933a3-cffb-43e5-a1ea-527471a76217",
+        "bio": "Dedicated to continuous learning and improvement",
+        "specialization": "Pediatrics",
+        "experience": 28866,
+        "education": "Master of Science in Physical Therapy",
+        "certifications": "Pediatric Advanced Life Support (PALS)",
+        "created_at": "2023-08-24T17:05:33.278Z",
+        "updated_at": "2023-08-24T16:39:56.954Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e165608-ae54-4129-aeb7-4f7103a95a23",
+        "bio": "Committed to promoting health and wellness",
+        "specialization": "Orthopedics",
+        "experience": 78285,
+        "education": "Bachelor of Pharmacy",
+        "certifications": "Certified Nurse Midwife (CNM)",
+        "created_at": "2023-08-24T19:48:00.043Z",
+        "updated_at": "2023-08-24T18:55:56.010Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b3865a8c-1775-4d69-824a-770c48554362",
+        "bio": "Skilled in various medical procedures",
+        "specialization": "Gastroenterology",
+        "experience": 24168,
+        "education": "Bachelor of Science in Nutrition",
+        "certifications": "Certified Pharmacy Technician (CPhT)",
+        "created_at": "2023-08-24T12:16:09.098Z",
+        "updated_at": "2023-08-25T05:56:44.509Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "patient_record": [
+      {
+        "id": "f0270b25-6fde-403d-8448-6dfec770399c",
+        "medical_history": "No significant medical history",
+        "current_condition": "Common cold",
+        "medications": "Ibuprofen 400mg",
+        "allergies": "Peanuts",
+        "immunization_record": "Influenza vaccine (2020)",
+        "created_at": "2023-08-24T20:06:46.081Z",
+        "updated_at": "2023-08-25T03:16:48.635Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "44258b38-fd1c-4072-bc7d-cf8cff79b92f",
+        "medical_history": "History of asthma",
+        "current_condition": "Sprained ankle",
+        "medications": "Lisinopril 10mg",
+        "allergies": "Shellfish",
+        "immunization_record": "Tetanus-diphtheria-pertussis (Tdap) vaccine (2018)",
+        "created_at": "2023-08-24T15:50:30.622Z",
+        "updated_at": "2023-08-24T22:48:11.851Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "5feb93d9-73f9-4b71-a714-30b8b97c38af",
+        "medical_history": "Previous surgery for appendicitis",
+        "current_condition": "Migraine headaches",
+        "medications": "Amoxicillin 500mg",
+        "allergies": "Dust mites",
+        "immunization_record": "Measles-mumps-rubella (MMR) vaccine (2015)",
+        "created_at": "2023-08-25T03:00:41.448Z",
+        "updated_at": "2023-08-24T13:33:58.541Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "6f5c7558-f610-4995-bc72-cd2e367a88bb",
+        "medical_history": "Hypertension diagnosed in 2015",
+        "current_condition": "Gastrointestinal infection",
+        "medications": "Albuterol inhaler",
+        "allergies": "Latex",
+        "immunization_record": "Hepatitis B vaccine (2012)",
+        "created_at": "2023-08-25T09:25:52.556Z",
+        "updated_at": "2023-08-25T01:35:17.426Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "f378661b-999d-47fc-9a4b-be0aca972d66",
+        "medical_history": "Allergic to penicillin",
+        "current_condition": "Chronic back pain",
+        "medications": "Omeprazole 20mg",
+        "allergies": "Bee stings",
+        "immunization_record": "Pneumococcal vaccine (2010)",
+        "created_at": "2023-08-25T02:10:58.959Z",
+        "updated_at": "2023-08-25T00:36:20.093Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      }
+    ],
+    "insurance_plan": [
+      {
+        "id": "0fad3221-8edc-45c6-a643-dcd3771380ab",
+        "plan_name": "Gold Plan",
+        "coverage": 4462,
+        "premium": 67746,
+        "deductible": 41011,
+        "out_of_pocket_maximum": 59703,
+        "created_at": "2023-08-25T06:12:55.665Z",
+        "updated_at": "2023-08-24T17:54:01.487Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "eabdb747-08dd-4df7-b0c7-6ca5d52e4d2c",
+        "plan_name": "Silver Plan",
+        "coverage": 86052,
+        "premium": 86262,
+        "deductible": 88760,
+        "out_of_pocket_maximum": 89705,
+        "created_at": "2023-08-24T18:46:01.116Z",
+        "updated_at": "2023-08-25T10:43:14.133Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "9aa75717-5c73-446b-98c1-5f133fdac9d4",
+        "plan_name": "Bronze Plan",
+        "coverage": 57574,
+        "premium": 82082,
+        "deductible": 99824,
+        "out_of_pocket_maximum": 88421,
+        "created_at": "2023-08-24T18:15:37.947Z",
+        "updated_at": "2023-08-24T17:15:05.721Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "46f51f4e-fc87-44ff-88d6-a40d8864158d",
+        "plan_name": "Platinum Plan",
+        "coverage": 61370,
+        "premium": 42244,
+        "deductible": 59696,
+        "out_of_pocket_maximum": 84568,
+        "created_at": "2023-08-24T18:19:34.061Z",
+        "updated_at": "2023-08-24T18:01:04.520Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "e64e6cbc-07d3-4105-b8a9-fab255e94765",
+        "plan_name": "Catastrophic Plan",
+        "coverage": 88466,
+        "premium": 32169,
+        "deductible": 63356,
+        "out_of_pocket_maximum": 54944,
+        "created_at": "2023-08-25T05:14:39.814Z",
+        "updated_at": "2023-08-25T05:18:53.175Z",
+        "insurance_provider_id": "user_entity_pk"
+      }
+    ],
+    "appointment": [
+      {
+        "id": "09576980-46f0-4b80-8360-3974822384cc",
+        "date": "2023-08-25T05:39:58.344Z",
+        "time": "2023-08-24T15:22:10.382Z",
+        "status": "Scheduled",
+        "created_at": "2023-08-25T02:49:12.986Z",
+        "updated_at": "2023-08-25T11:53:52.079Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "b8512479-6d78-488b-89b5-36ff077b37d6",
+        "date": "2023-08-25T09:29:52.800Z",
+        "time": "2023-08-25T01:33:18.729Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-24T13:50:54.554Z",
+        "updated_at": "2023-08-24T15:53:10.487Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "1b6bdae0-807f-4d92-aa51-84b74cbcd619",
+        "date": "2023-08-25T04:31:45.734Z",
+        "time": "2023-08-25T10:42:11.139Z",
+        "status": "Completed",
+        "created_at": "2023-08-24T19:57:23.097Z",
+        "updated_at": "2023-08-24T22:35:11.042Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "363ee246-e8a4-4781-9cec-795eba05b260",
+        "date": "2023-08-24T21:16:13.138Z",
+        "time": "2023-08-25T03:07:45.144Z",
+        "status": "Rescheduled",
+        "created_at": "2023-08-25T00:12:41.381Z",
+        "updated_at": "2023-08-25T05:58:56.907Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "ad62888f-b363-41b7-8169-0169809677c7",
+        "date": "2023-08-25T11:13:47.004Z",
+        "time": "2023-08-25T06:21:22.565Z",
+        "status": "No Show",
+        "created_at": "2023-08-24T21:27:04.661Z",
+        "updated_at": "2023-08-25T03:04:27.917Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "237e73a3-d285-4c65-8c9d-b7c45bb343e6",
+        "email": "Nathan20@hotmail.com",
+        "firstName": "Betsy",
+        "lastName": "Lowe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/698.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dc0bd767-7972-4fa6-a674-4376faaf64e1",
+        "email": "Kathryn1@yahoo.com",
+        "firstName": "Guadalupe",
+        "lastName": "Kerluke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1000.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e716f1e9-66c7-4592-b8c9-1767890a5640",
+        "email": "Bonita4@yahoo.com",
+        "firstName": "Simeon",
+        "lastName": "Anderson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/656.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0cebf96d-41b6-44d9-aaae-880172a05f8c",
+        "email": "Reese4@yahoo.com",
+        "firstName": "Janae",
+        "lastName": "Reichert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/400.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "da3fdfe1-d19a-4694-8b7f-f03d5cc0cb8b",
+        "email": "Magali.Conroy@gmail.com",
+        "firstName": "Coralie",
+        "lastName": "Swift",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11349409",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "profile": [
+      {
+        "id": "168b749a-42c3-4952-999c-7309692c2738",
+        "bio": "Experienced professional in the field",
+        "specialization": "Cardiology",
+        "experience": 5750,
+        "education": "Bachelor's degree in Medicine",
+        "certifications": "Board Certified",
+        "created_at": "2023-08-24T20:02:10.526Z",
+        "updated_at": "2023-08-25T09:21:54.948Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca38a58f-0044-47ba-acf3-feaeebb9cca2",
+        "bio": "Passionate about helping others",
+        "specialization": "Pediatrics",
+        "experience": 63061,
+        "education": "Master's degree in Nursing",
+        "certifications": "Advanced Life Support (ALS)",
+        "created_at": "2023-08-25T00:28:24.641Z",
+        "updated_at": "2023-08-24T16:46:09.051Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa60f565-adef-473a-9221-0d8e8a53f653",
+        "bio": "Dedicated to providing quality care",
+        "specialization": "Orthopedics",
+        "experience": 36640,
+        "education": "PhD in Psychology",
+        "certifications": "Pediatric Advanced Life Support (PALS)",
+        "created_at": "2023-08-24T15:05:51.275Z",
+        "updated_at": "2023-08-25T05:29:04.015Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0b7cac35-8817-4865-a579-c62b63862f26",
+        "bio": "Expert in specialized treatments",
+        "specialization": "Dermatology",
+        "experience": 32761,
+        "education": "Specialized training in Surgery",
+        "certifications": "Certified Nurse Practitioner (CNP)",
+        "created_at": "2023-08-24T21:58:39.602Z",
+        "updated_at": "2023-08-25T02:06:43.205Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b5547f75-45eb-431e-851c-47211a543ea2",
+        "bio": "Committed to lifelong learning",
+        "specialization": "Neurology",
+        "experience": 62059,
+        "education": "Certification in Emergency Medicine",
+        "certifications": "Fellow of the American College of Surgeons (FACS)",
+        "created_at": "2023-08-25T07:50:21.300Z",
+        "updated_at": "2023-08-25T09:25:55.429Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "patient_record": [
+      {
+        "id": "7c8282a0-029a-416a-b2f6-631a2b965345",
+        "medical_history": "No significant medical history",
+        "current_condition": "Fever and cough",
+        "medications": "Ibuprofen",
+        "allergies": "Peanuts",
+        "immunization_record": "Flu vaccine",
+        "created_at": "2023-08-25T01:45:10.437Z",
+        "updated_at": "2023-08-25T11:12:07.084Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "6bcabd3a-d53a-44f2-835e-f8fba5b6d36f",
+        "medical_history": "History of asthma",
+        "current_condition": "Chronic back pain",
+        "medications": "Levothyroxine",
+        "allergies": "Shellfish",
+        "immunization_record": "Tetanus booster",
+        "created_at": "2023-08-24T14:29:00.294Z",
+        "updated_at": "2023-08-25T00:26:42.483Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "33d7579f-b996-42a1-bf99-1bcbe5294d01",
+        "medical_history": "Previous heart surgery",
+        "current_condition": "High blood pressure",
+        "medications": "Lisinopril",
+        "allergies": "Dust mites",
+        "immunization_record": "MMR vaccine",
+        "created_at": "2023-08-25T05:44:40.516Z",
+        "updated_at": "2023-08-24T15:14:42.994Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "c11801e2-85be-4dcd-a849-226595d540f5",
+        "medical_history": "Diagnosed with diabetes",
+        "current_condition": "Depression and anxiety",
+        "medications": "Sertraline",
+        "allergies": "Latex",
+        "immunization_record": "Hepatitis B vaccine",
+        "created_at": "2023-08-24T18:19:38.962Z",
+        "updated_at": "2023-08-24T15:15:05.364Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "721f6af0-959a-4001-872d-fbff45a4c98c",
+        "medical_history": "Allergic to penicillin",
+        "current_condition": "Seasonal allergies",
+        "medications": "Fluticasone",
+        "allergies": "Eggs",
+        "immunization_record": "Pneumococcal vaccine",
+        "created_at": "2023-08-25T09:38:03.343Z",
+        "updated_at": "2023-08-25T03:54:46.329Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      }
+    ],
+    "insurance_plan": [
+      {
+        "id": "bcc8402f-50b8-4d3c-b290-3031e46b34b2",
+        "plan_name": "Gold Plan",
+        "coverage": 44279,
+        "premium": 86027,
+        "deductible": 95370,
+        "out_of_pocket_maximum": 46572,
+        "created_at": "2023-08-24T21:28:12.255Z",
+        "updated_at": "2023-08-25T04:54:26.904Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "769beeac-1bb6-41fe-9c22-b6e631b51f4f",
+        "plan_name": "Silver Plan",
+        "coverage": 27966,
+        "premium": 84465,
+        "deductible": 59511,
+        "out_of_pocket_maximum": 80847,
+        "created_at": "2023-08-25T01:20:49.798Z",
+        "updated_at": "2023-08-24T15:09:56.906Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "34a6d413-f9b8-4eac-ab2f-05fb26e004c3",
+        "plan_name": "Bronze Plan",
+        "coverage": 66324,
+        "premium": 645,
+        "deductible": 15305,
+        "out_of_pocket_maximum": 74107,
+        "created_at": "2023-08-25T04:49:34.691Z",
+        "updated_at": "2023-08-24T14:06:33.854Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "b542912e-8c49-41e6-803d-aca75abf9346",
+        "plan_name": "Platinum Plan",
+        "coverage": 95355,
+        "premium": 24485,
+        "deductible": 91076,
+        "out_of_pocket_maximum": 33366,
+        "created_at": "2023-08-24T14:04:28.247Z",
+        "updated_at": "2023-08-24T14:39:53.602Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "4c9432fc-e50f-431f-a071-be0e22a99ad8",
+        "plan_name": "Catastrophic Plan",
+        "coverage": 56926,
+        "premium": 78640,
+        "deductible": 61187,
+        "out_of_pocket_maximum": 86789,
+        "created_at": "2023-08-25T01:29:05.904Z",
+        "updated_at": "2023-08-25T03:03:09.077Z",
+        "insurance_provider_id": "user_entity_pk"
+      }
+    ],
+    "appointment": [
+      {
+        "id": "ffb0f356-4810-4098-8c49-b3abad6fda7d",
+        "date": "2023-08-24T23:40:22.797Z",
+        "time": "2023-08-25T05:36:14.043Z",
+        "status": "Scheduled",
+        "created_at": "2023-08-24T16:17:19.734Z",
+        "updated_at": "2023-08-25T01:17:59.770Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "cf351d3b-0184-40bf-bca7-13362a6c814b",
+        "date": "2023-08-24T18:00:17.355Z",
+        "time": "2023-08-24T20:35:24.721Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-25T04:58:32.436Z",
+        "updated_at": "2023-08-25T02:16:08.255Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "9d02890a-b670-493a-ac62-fbbe88160a73",
+        "date": "2023-08-25T08:19:05.983Z",
+        "time": "2023-08-25T06:30:50.277Z",
+        "status": "Completed",
+        "created_at": "2023-08-24T17:58:26.463Z",
+        "updated_at": "2023-08-24T15:26:04.490Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "c8fd1d98-b7d0-44cf-ae17-05d92decd3c1",
+        "date": "2023-08-25T09:34:30.521Z",
+        "time": "2023-08-24T12:40:03.512Z",
+        "status": "Rescheduled",
+        "created_at": "2023-08-25T10:20:52.944Z",
+        "updated_at": "2023-08-24T21:23:15.189Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "90ab479c-e9a8-4d0f-b729-5d24f1c1f665",
+        "date": "2023-08-25T04:44:12.290Z",
+        "time": "2023-08-24T21:05:55.029Z",
+        "status": "Pending",
+        "created_at": "2023-08-24T17:52:56.704Z",
+        "updated_at": "2023-08-25T05:00:43.211Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8782d509-1b8f-433e-87d9-3fb2ea62b50c",
+        "email": "Johan_Simonis6@gmail.com",
+        "firstName": "Roxanne",
+        "lastName": "Harris",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81152279",
+        "tenantId": null
+      },
+      {
+        "reference": "35de7fac-cd01-48f0-b12b-ed7f385c8918",
+        "email": "Vern_Abernathy50@hotmail.com",
+        "firstName": "Lenora",
+        "lastName": "Torphy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/18.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "86921f5d-0152-4235-a213-77f19b6a4d18",
+        "email": "Adella.Price@yahoo.com",
+        "firstName": "Bobby",
+        "lastName": "Beatty",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/983.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8a49b1fc-2533-4315-afb2-e2a78f1e8d9e",
+        "email": "Jermaine.Bailey2@yahoo.com",
+        "firstName": "Benny",
+        "lastName": "Konopelski-Stracke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/538.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "eebe6968-72c4-4556-a0c1-13d760f493e2",
+        "email": "Anjali48@yahoo.com",
+        "firstName": "Reid",
+        "lastName": "Klocko",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75609152",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "profile": [
+      {
+        "id": "cc579291-1b96-426c-99c3-6108d07e7dfd",
+        "bio": "Passionate about helping others",
+        "specialization": "Cardiology",
+        "experience": 5172,
+        "education": "Medical School of XYZ University",
+        "certifications": "Board Certified in Internal Medicine",
+        "created_at": "2023-08-24T22:57:21.943Z",
+        "updated_at": "2023-08-25T03:57:56.797Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "36418759-875b-42c0-a37c-09cdc34de910",
+        "bio": "Experienced in the field of medicine",
+        "specialization": "Pediatrics",
+        "experience": 57687,
+        "education": "ABC Medical College",
+        "certifications": "Fellowship in Neurology",
+        "created_at": "2023-08-25T09:42:18.489Z",
+        "updated_at": "2023-08-24T23:26:15.927Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "51d43732-3e42-411a-a46e-c8abaeac2502",
+        "bio": "Dedicated to patient care",
+        "specialization": "Dermatology",
+        "experience": 63917,
+        "education": "PQR Medical Institute",
+        "certifications": "Certified Nurse Practitioner",
+        "created_at": "2023-08-25T10:03:11.479Z",
+        "updated_at": "2023-08-24T19:23:23.631Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e85f568b-80f7-48ef-8943-b1096ff99f1f",
+        "bio": "Committed to continuous learning",
+        "specialization": "Orthopedics",
+        "experience": 13731,
+        "education": "LMN Medical School",
+        "certifications": "Advanced Cardiac Life Support (ACLS) Certified",
+        "created_at": "2023-08-24T17:29:01.373Z",
+        "updated_at": "2023-08-24T14:52:44.771Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25f6e689-c0cc-40bd-b632-74041882b7de",
+        "bio": "Skilled in various medical procedures",
+        "specialization": "Gynecology",
+        "experience": 81328,
+        "education": "University of Medicine and Health Sciences",
+        "certifications": "Pediatric Advanced Life Support (PALS) Certified",
+        "created_at": "2023-08-25T04:52:47.754Z",
+        "updated_at": "2023-08-25T00:08:01.768Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "patient_record": [
+      {
+        "id": "71825825-7702-4135-8364-930afb1f82a0",
+        "medical_history": "No significant medical history",
+        "current_condition": "Common cold",
+        "medications": "Aspirin",
+        "allergies": "Pollen",
+        "immunization_record": "Tetanus",
+        "created_at": "2023-08-25T08:42:39.519Z",
+        "updated_at": "2023-08-24T20:38:37.153Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "339a34c0-ec33-4f89-b4ff-c47196d747c0",
+        "medical_history": "History of asthma",
+        "current_condition": "Sprained ankle",
+        "medications": "Ibuprofen",
+        "allergies": "Dust mites",
+        "immunization_record": "Influenza",
+        "created_at": "2023-08-24T22:24:11.302Z",
+        "updated_at": "2023-08-25T11:21:46.290Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "9ddd08b2-2e5d-4805-bb27-92c7c777b04b",
+        "medical_history": "Previous surgery for appendicitis",
+        "current_condition": "High blood pressure",
+        "medications": "Amoxicillin",
+        "allergies": "Peanuts",
+        "immunization_record": "Measles, Mumps, and Rubella (MMR)",
+        "created_at": "2023-08-25T03:35:41.818Z",
+        "updated_at": "2023-08-25T06:13:04.857Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "5374dabb-d577-4adb-9ebb-cbb17a524a21",
+        "medical_history": "Allergic to penicillin",
+        "current_condition": "Migraine headaches",
+        "medications": "Lisinopril",
+        "allergies": "Shellfish",
+        "immunization_record": "Hepatitis B",
+        "created_at": "2023-08-24T17:14:08.857Z",
+        "updated_at": "2023-08-24T18:04:19.191Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "a7a98f73-936f-43d4-aa60-420b97aff3c1",
+        "medical_history": "Diagnosed with diabetes",
+        "current_condition": "Stomach flu",
+        "medications": "Metformin",
+        "allergies": "Latex",
+        "immunization_record": "Varicella (Chickenpox)",
+        "created_at": "2023-08-24T16:22:12.932Z",
+        "updated_at": "2023-08-25T02:02:30.374Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      }
+    ],
+    "insurance_plan": [
+      {
+        "id": "16ecf1b7-1a86-44d3-ae01-ddedd5a621e1",
+        "plan_name": "Gold Plan",
+        "coverage": 49085,
+        "premium": 47284,
+        "deductible": 63985,
+        "out_of_pocket_maximum": 74365,
+        "created_at": "2023-08-25T10:52:15.456Z",
+        "updated_at": "2023-08-24T17:08:36.844Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "5d0d2b1b-1561-4872-aedb-d5b467896f23",
+        "plan_name": "Silver Plan",
+        "coverage": 12773,
+        "premium": 84223,
+        "deductible": 56665,
+        "out_of_pocket_maximum": 83339,
+        "created_at": "2023-08-24T23:43:54.538Z",
+        "updated_at": "2023-08-25T01:05:15.248Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "6cc11439-dd69-4fa0-8ea8-4ec59bcb6675",
+        "plan_name": "Bronze Plan",
+        "coverage": 68543,
+        "premium": 25027,
+        "deductible": 10755,
+        "out_of_pocket_maximum": 56533,
+        "created_at": "2023-08-25T11:19:24.533Z",
+        "updated_at": "2023-08-25T05:15:15.769Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "c302dfd6-afb6-4f4e-92ba-dcd759225b10",
+        "plan_name": "Platinum Plan",
+        "coverage": 12668,
+        "premium": 13548,
+        "deductible": 55405,
+        "out_of_pocket_maximum": 96158,
+        "created_at": "2023-08-25T08:23:19.643Z",
+        "updated_at": "2023-08-24T14:45:30.367Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "c146c219-b0db-44c6-a411-4c490e4306f6",
+        "plan_name": "Catastrophic Plan",
+        "coverage": 90401,
+        "premium": 47395,
+        "deductible": 56706,
+        "out_of_pocket_maximum": 44944,
+        "created_at": "2023-08-24T21:31:45.156Z",
+        "updated_at": "2023-08-24T20:43:51.612Z",
+        "insurance_provider_id": "user_entity_pk"
+      }
+    ],
+    "appointment": [
+      {
+        "id": "7ab57e75-bed2-493f-8084-dd59c945dc64",
+        "date": "2023-08-24T13:53:56.917Z",
+        "time": "2023-08-24T21:01:06.525Z",
+        "status": "Scheduled",
+        "created_at": "2023-08-25T04:36:15.639Z",
+        "updated_at": "2023-08-24T13:22:05.453Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "149e396e-950c-4ecb-b733-d10456e12809",
+        "date": "2023-08-24T19:06:24.042Z",
+        "time": "2023-08-24T23:24:44.111Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-25T04:51:30.772Z",
+        "updated_at": "2023-08-24T17:12:19.037Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "8bb4d723-e31f-4d3f-a89e-d66fb486e97a",
+        "date": "2023-08-25T04:09:31.607Z",
+        "time": "2023-08-25T07:48:15.021Z",
+        "status": "Completed",
+        "created_at": "2023-08-25T10:19:18.346Z",
+        "updated_at": "2023-08-24T14:29:08.290Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "3eff518d-89b7-4925-af06-95add39eaa4a",
+        "date": "2023-08-25T03:04:20.938Z",
+        "time": "2023-08-25T06:46:49.891Z",
+        "status": "Rescheduled",
+        "created_at": "2023-08-25T06:27:19.398Z",
+        "updated_at": "2023-08-25T03:36:02.863Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "b5b92d85-d00b-4a16-bb77-bd3e073a3667",
+        "date": "2023-08-25T12:00:56.978Z",
+        "time": "2023-08-25T07:48:13.445Z",
+        "status": "Pending",
+        "created_at": "2023-08-24T21:56:32.227Z",
+        "updated_at": "2023-08-25T11:38:26.167Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d0730f07-6ad7-43e6-9944-5e7c657e0d53",
+        "email": "Tony39@gmail.com",
+        "firstName": "Ibrahim",
+        "lastName": "Breitenberg",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1123.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6fa18f27-897a-4db0-af18-4f682cb9e391",
+        "email": "Marianne_Hand-Gleason@hotmail.com",
+        "firstName": "Pearlie",
+        "lastName": "Bernier",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92831296",
+        "tenantId": null
+      },
+      {
+        "reference": "25662407-a73d-448c-a373-230adcee1267",
+        "email": "Hazel92@gmail.com",
+        "firstName": "Joe",
+        "lastName": "Reichel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1235.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b84ccae2-198b-4115-8a14-731589de2297",
+        "email": "Tre90@hotmail.com",
+        "firstName": "Jefferey",
+        "lastName": "Champlin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1069.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5c159c26-836d-4501-8911-73bc2e6fd425",
+        "email": "Kobe_Bechtelar@hotmail.com",
+        "firstName": "Sven",
+        "lastName": "Lindgren",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/816.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "profile": [
+      {
+        "id": "90707f07-d6d9-4108-8cc8-10a21383d84b",
+        "bio": "Experienced professional in the healthcare industry",
+        "specialization": "Cardiology",
+        "experience": 33896,
+        "education": "Bachelor of Medicine",
+        "certifications": "Advanced Cardiac Life Support (ACLS)",
+        "created_at": "2023-08-25T00:26:23.894Z",
+        "updated_at": "2023-08-24T18:03:19.217Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cdcedf29-36f5-4ce5-954e-1ff530ad6599",
+        "bio": "Passionate about providing quality care to patients",
+        "specialization": "Pediatrics",
+        "experience": 56169,
+        "education": "Doctor of Medicine",
+        "certifications": "Pediatric Advanced Life Support (PALS)",
+        "created_at": "2023-08-24T16:51:37.950Z",
+        "updated_at": "2023-08-25T09:53:00.259Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6489bbfd-9df3-4dd3-b3a8-b3d668af89a5",
+        "bio": "Dedicated to continuous learning and professional development",
+        "specialization": "Orthopedics",
+        "experience": 45711,
+        "education": "Master of Science in Nursing",
+        "certifications": "Certified Registered Nurse Anesthetist (CRNA)",
+        "created_at": "2023-08-25T02:09:04.461Z",
+        "updated_at": "2023-08-24T12:03:49.252Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c47f4a7-d923-4caa-82a5-2ea6093e6518",
+        "bio": "Committed to improving patient outcomes",
+        "specialization": "Dermatology",
+        "experience": 6599,
+        "education": "Bachelor of Science in Pharmacy",
+        "certifications": "Board Certified Orthopedic Surgeon",
+        "created_at": "2023-08-24T19:43:30.916Z",
+        "updated_at": "2023-08-25T04:07:46.485Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "734105a7-5845-4ff8-9a9a-40b8fe662510",
+        "bio": "Skilled in various medical procedures",
+        "specialization": "Neurology",
+        "experience": 53160,
+        "education": "Bachelor of Science in Physical Therapy",
+        "certifications": "Certified Diabetes Educator (CDE)",
+        "created_at": "2023-08-24T22:10:00.686Z",
+        "updated_at": "2023-08-25T03:31:00.023Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "patient_record": [
+      {
+        "id": "5e1059c0-280f-4e83-aac4-7340389cc845",
+        "medical_history": "No significant medical history",
+        "current_condition": "Common cold",
+        "medications": "Aspirin",
+        "allergies": "Pollen",
+        "immunization_record": "Tetanus",
+        "created_at": "2023-08-24T15:52:17.796Z",
+        "updated_at": "2023-08-24T18:22:05.562Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "af8fc422-b466-4ee6-b27f-d5e83b4c7b79",
+        "medical_history": "History of asthma",
+        "current_condition": "Sprained ankle",
+        "medications": "Amoxicillin",
+        "allergies": "Peanuts",
+        "immunization_record": "Influenza",
+        "created_at": "2023-08-24T21:33:26.412Z",
+        "updated_at": "2023-08-25T01:06:37.717Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "2f77323f-c81d-403b-8f04-12fa47900bf2",
+        "medical_history": "Previous heart surgery",
+        "current_condition": "High blood pressure",
+        "medications": "Lisinopril",
+        "allergies": "Shellfish",
+        "immunization_record": "Hepatitis B",
+        "created_at": "2023-08-25T10:39:34.364Z",
+        "updated_at": "2023-08-24T14:52:16.336Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "2a07ec99-184b-4072-a04d-87ac5d1467c9",
+        "medical_history": "Diagnosed with diabetes",
+        "current_condition": "Migraine headaches",
+        "medications": "Ibuprofen",
+        "allergies": "Latex",
+        "immunization_record": "Measles, Mumps, Rubella (MMR)",
+        "created_at": "2023-08-24T20:26:10.519Z",
+        "updated_at": "2023-08-25T01:00:02.799Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "0d153b2c-a9e3-41a2-84e5-f9c941248e23",
+        "medical_history": "Allergic to penicillin",
+        "current_condition": "Chronic back pain",
+        "medications": "Metformin",
+        "allergies": "Dust mites",
+        "immunization_record": "Pneumococcal",
+        "created_at": "2023-08-25T03:19:13.417Z",
+        "updated_at": "2023-08-25T11:01:51.114Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      }
+    ],
+    "insurance_plan": [
+      {
+        "id": "14ce6ab1-5c3f-458e-83a1-ed32b51ed9b1",
+        "plan_name": "Gold Plan",
+        "coverage": 27917,
+        "premium": 50868,
+        "deductible": 60924,
+        "out_of_pocket_maximum": 41600,
+        "created_at": "2023-08-25T07:12:45.189Z",
+        "updated_at": "2023-08-24T13:05:48.789Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "c5b57ba0-52fa-4865-8601-7b96a77a89e7",
+        "plan_name": "Silver Plan",
+        "coverage": 69280,
+        "premium": 37230,
+        "deductible": 34263,
+        "out_of_pocket_maximum": 77022,
+        "created_at": "2023-08-25T01:41:32.025Z",
+        "updated_at": "2023-08-24T22:03:30.989Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "8c4e9e11-c142-4770-8089-2942aa4be01b",
+        "plan_name": "Bronze Plan",
+        "coverage": 91384,
+        "premium": 88873,
+        "deductible": 51772,
+        "out_of_pocket_maximum": 70981,
+        "created_at": "2023-08-25T01:09:22.446Z",
+        "updated_at": "2023-08-25T09:36:07.209Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "4c18244a-a0a5-4909-acb4-a7935a9bbfa4",
+        "plan_name": "Platinum Plan",
+        "coverage": 64808,
+        "premium": 94608,
+        "deductible": 11332,
+        "out_of_pocket_maximum": 28637,
+        "created_at": "2023-08-25T00:51:00.330Z",
+        "updated_at": "2023-08-25T08:12:12.309Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "361124c6-bce5-4acf-ba68-206af2c8149f",
+        "plan_name": "Catastrophic Plan",
+        "coverage": 84770,
+        "premium": 93481,
+        "deductible": 67380,
+        "out_of_pocket_maximum": 85415,
+        "created_at": "2023-08-25T04:01:22.753Z",
+        "updated_at": "2023-08-24T20:28:22.689Z",
+        "insurance_provider_id": "user_entity_pk"
+      }
+    ],
+    "appointment": [
+      {
+        "id": "c7221c9d-6a87-47aa-9328-fe0aacc3f0c8",
+        "date": "2023-08-24T21:15:43.705Z",
+        "time": "2023-08-25T05:16:35.984Z",
+        "status": "Scheduled",
+        "created_at": "2023-08-24T15:22:19.859Z",
+        "updated_at": "2023-08-24T16:19:10.287Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "2ccf38cb-06e4-4c21-9369-2abcd7a32b9d",
+        "date": "2023-08-24T14:44:08.524Z",
+        "time": "2023-08-24T16:46:54.171Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-25T07:28:15.872Z",
+        "updated_at": "2023-08-25T01:28:57.480Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "12af8fb8-1b81-41e2-8a6e-69e6103a261e",
+        "date": "2023-08-24T22:17:55.146Z",
+        "time": "2023-08-24T23:29:18.794Z",
+        "status": "Completed",
+        "created_at": "2023-08-25T04:25:54.113Z",
+        "updated_at": "2023-08-25T00:45:25.964Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "19f60298-553b-4f71-8db7-6688cca6d235",
+        "date": "2023-08-24T20:04:38.372Z",
+        "time": "2023-08-24T14:56:11.670Z",
+        "status": "Rescheduled",
+        "created_at": "2023-08-25T00:28:14.335Z",
+        "updated_at": "2023-08-24T18:04:21.194Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "916578a9-e9c0-49f9-a7fe-972351becd5f",
+        "date": "2023-08-24T18:37:31.471Z",
+        "time": "2023-08-24T13:34:07.250Z",
+        "status": "No-show",
+        "created_at": "2023-08-24T16:27:33.495Z",
+        "updated_at": "2023-08-25T06:26:22.989Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "99e51ccf-da91-44d9-872a-f466e4bcf2d6",
+        "email": "Bridgette41@gmail.com",
+        "firstName": "Ellie",
+        "lastName": "Parisian",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7827460",
+        "tenantId": null
+      },
+      {
+        "reference": "908083b4-5e02-464e-ac42-54cef003f601",
+        "email": "Caterina.Braun@yahoo.com",
+        "firstName": "Eldora",
+        "lastName": "Runolfsson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45564904",
+        "tenantId": null
+      },
+      {
+        "reference": "ffcba894-5deb-4066-97b3-9ebc910503d5",
+        "email": "Natalie.Denesik@hotmail.com",
+        "firstName": "Ines",
+        "lastName": "Wilderman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/909707",
+        "tenantId": null
+      },
+      {
+        "reference": "e0426b08-4aed-404e-9821-4e91b4d88355",
+        "email": "Alivia72@gmail.com",
+        "firstName": "Ayden",
+        "lastName": "Grady",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23699913",
+        "tenantId": null
+      },
+      {
+        "reference": "ec6ec829-7df0-480b-ac70-72d04debe6d2",
+        "email": "Dahlia78@hotmail.com",
+        "firstName": "Isac",
+        "lastName": "Vandervort",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/813.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "profile": [
+      {
+        "id": "722ea4ff-6d66-469a-a1f1-261955cce35d",
+        "bio": "Experienced professional in the healthcare industry",
+        "specialization": "Cardiology",
+        "experience": 91182,
+        "education": "Bachelor of Medicine, University of ABC",
+        "certifications": "Board Certified Family Nurse Practitioner",
+        "created_at": "2023-08-24T22:57:00.014Z",
+        "updated_at": "2023-08-25T06:34:14.260Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb2b7e2a-2df7-468b-ba55-b0c201cde0c6",
+        "bio": "Passionate about helping others improve their well-being",
+        "specialization": "Dermatology",
+        "experience": 66503,
+        "education": "Master of Science in Nursing, University of XYZ",
+        "certifications": "Certified Medical Assistant",
+        "created_at": "2023-08-24T19:57:57.080Z",
+        "updated_at": "2023-08-25T01:57:10.331Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb7f9a7a-a50f-4aba-9895-5a32180f5872",
+        "bio": "Dedicated to providing quality healthcare services",
+        "specialization": "Gastroenterology",
+        "experience": 75776,
+        "education": "Doctor of Pharmacy, University of DEF",
+        "certifications": "Licensed Clinical Social Worker",
+        "created_at": "2023-08-25T09:01:26.435Z",
+        "updated_at": "2023-08-24T22:03:32.561Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b6abaab6-c829-4a38-9eb2-faf2dff5ab81",
+        "bio": "Committed to continuous learning and professional development",
+        "specialization": "Neurology",
+        "experience": 34535,
+        "education": "Bachelor of Science in Physical Therapy, University of GHI",
+        "certifications": "Registered Dietitian",
+        "created_at": "2023-08-25T07:35:12.734Z",
+        "updated_at": "2023-08-25T07:16:53.014Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "619a4109-dcfa-493c-ab76-255f9205483d",
+        "bio": "Skilled in various medical procedures",
+        "specialization": "Orthopedics",
+        "experience": 89885,
+        "education": "Master of Social Work, University of JKL",
+        "certifications": "Certified Pharmacy Technician",
+        "created_at": "2023-08-24T15:50:33.261Z",
+        "updated_at": "2023-08-25T10:58:49.803Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "patient_record": [
+      {
+        "id": "737044db-ceb7-4c32-8098-5a11f9a92050",
+        "medical_history": "No significant medical history",
+        "current_condition": "Common cold",
+        "medications": "Aspirin",
+        "allergies": "Peanuts",
+        "immunization_record": "Influenza vaccine",
+        "created_at": "2023-08-25T03:39:07.557Z",
+        "updated_at": "2023-08-25T02:26:57.080Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "bb0d3f03-18a4-4ec5-a494-18dffe7e436c",
+        "medical_history": "History of allergies to penicillin",
+        "current_condition": "Sprained ankle",
+        "medications": "Ibuprofen",
+        "allergies": "Shellfish",
+        "immunization_record": "Tetanus booster",
+        "created_at": "2023-08-24T23:45:09.434Z",
+        "updated_at": "2023-08-25T00:50:44.025Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "a1f8bb69-e7b0-494a-8e8f-b9b96b919faa",
+        "medical_history": "Previous surgery for appendicitis",
+        "current_condition": "Migraine headache",
+        "medications": "Lisinopril",
+        "allergies": "Pollen",
+        "immunization_record": "Hepatitis B vaccine",
+        "created_at": "2023-08-24T14:15:14.186Z",
+        "updated_at": "2023-08-25T04:49:42.445Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "324fabef-2648-4855-98ab-e8e583d5e890",
+        "medical_history": "Diagnosed with hypertension",
+        "current_condition": "Gastrointestinal infection",
+        "medications": "Metformin",
+        "allergies": "Dust mites",
+        "immunization_record": "MMR vaccine",
+        "created_at": "2023-08-24T18:57:57.614Z",
+        "updated_at": "2023-08-24T23:06:48.194Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "aee25e7a-485a-4b94-9617-79cc556be247",
+        "medical_history": "Family history of diabetes",
+        "current_condition": "Seasonal allergies",
+        "medications": "Levothyroxine",
+        "allergies": "Cat dander",
+        "immunization_record": "Pneumococcal vaccine",
+        "created_at": "2023-08-25T07:37:27.756Z",
+        "updated_at": "2023-08-24T19:49:19.826Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      }
+    ],
+    "insurance_plan": [
+      {
+        "id": "563edb42-e2aa-4405-b51e-e119176af1b6",
+        "plan_name": "Gold Plan",
+        "coverage": 53861,
+        "premium": 40238,
+        "deductible": 82967,
+        "out_of_pocket_maximum": 20285,
+        "created_at": "2023-08-25T10:36:50.633Z",
+        "updated_at": "2023-08-25T00:38:47.875Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "b39fd333-46cc-4587-86fc-d1b7a80665ca",
+        "plan_name": "Silver Plan",
+        "coverage": 68274,
+        "premium": 58232,
+        "deductible": 90105,
+        "out_of_pocket_maximum": 18910,
+        "created_at": "2023-08-25T04:26:21.777Z",
+        "updated_at": "2023-08-24T23:57:56.252Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "a98367be-84eb-49e8-ba04-a1ae85155aa6",
+        "plan_name": "Bronze Plan",
+        "coverage": 88671,
+        "premium": 73509,
+        "deductible": 45018,
+        "out_of_pocket_maximum": 97566,
+        "created_at": "2023-08-24T19:54:18.632Z",
+        "updated_at": "2023-08-25T10:55:41.726Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "75976dab-6428-489d-bbab-4bcbbf198f4f",
+        "plan_name": "Platinum Plan",
+        "coverage": 64648,
+        "premium": 50517,
+        "deductible": 15153,
+        "out_of_pocket_maximum": 13713,
+        "created_at": "2023-08-25T06:34:42.827Z",
+        "updated_at": "2023-08-24T12:09:00.869Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "93a8585d-da3b-410e-8c2f-7e7620619621",
+        "plan_name": "Catastrophic Plan",
+        "coverage": 9968,
+        "premium": 81290,
+        "deductible": 82284,
+        "out_of_pocket_maximum": 91138,
+        "created_at": "2023-08-24T13:52:00.124Z",
+        "updated_at": "2023-08-25T09:22:45.066Z",
+        "insurance_provider_id": "user_entity_pk"
+      }
+    ],
+    "appointment": [
+      {
+        "id": "8696d20b-601a-4827-afe7-d4b794cfe957",
+        "date": "2023-08-25T11:55:03.341Z",
+        "time": "2023-08-24T20:33:13.965Z",
+        "status": "Scheduled",
+        "created_at": "2023-08-25T03:01:43.160Z",
+        "updated_at": "2023-08-24T19:25:51.063Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "5af4018b-31ef-4993-a5b6-66e9e827af67",
+        "date": "2023-08-25T05:50:27.374Z",
+        "time": "2023-08-24T16:17:27.961Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-24T14:39:11.478Z",
+        "updated_at": "2023-08-25T01:10:13.434Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "273b2609-ad7d-417a-8e4b-76f1140c110c",
+        "date": "2023-08-25T04:57:52.661Z",
+        "time": "2023-08-25T10:08:02.412Z",
+        "status": "Completed",
+        "created_at": "2023-08-25T04:44:37.580Z",
+        "updated_at": "2023-08-24T22:01:37.667Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "a40c462d-1c9c-45ca-8f8d-6b728b379450",
+        "date": "2023-08-24T16:06:10.935Z",
+        "time": "2023-08-25T00:53:40.066Z",
+        "status": "Rescheduled",
+        "created_at": "2023-08-25T02:59:39.432Z",
+        "updated_at": "2023-08-24T16:20:31.281Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "d2ecdd9e-6614-4961-af0e-939a41876f04",
+        "date": "2023-08-25T00:53:09.238Z",
+        "time": "2023-08-24T17:37:46.257Z",
+        "status": "No-show",
+        "created_at": "2023-08-24T12:05:07.690Z",
+        "updated_at": "2023-08-25T07:44:24.230Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "17795d7d-5dfb-4949-a0c7-315bd6397684",
+        "email": "Creola37@hotmail.com",
+        "firstName": "River",
+        "lastName": "Wolff",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11987472",
+        "tenantId": null
+      },
+      {
+        "reference": "bafa3641-8fa9-4823-adcd-456707c051f3",
+        "email": "Clinton.Bechtelar87@yahoo.com",
+        "firstName": "Kenton",
+        "lastName": "Bartoletti",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69563841",
+        "tenantId": null
+      },
+      {
+        "reference": "b1cd464d-3800-48d0-8935-b0920d4fa35d",
+        "email": "Nico_Larson@gmail.com",
+        "firstName": "Jessy",
+        "lastName": "Rolfson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/181.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "55c42ced-202b-473a-a8ae-08ad48b4114b",
+        "email": "Samara15@hotmail.com",
+        "firstName": "Madison",
+        "lastName": "Bogan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1219.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0e95c109-2fd8-48ca-abfd-269dab1dff26",
+        "email": "Kimberly_Bartoletti@yahoo.com",
+        "firstName": "Letha",
+        "lastName": "Stoltenberg",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/874.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "profile": [
+      {
+        "id": "220be2f3-96a3-4395-b940-5b69eb657ddb",
+        "bio": "Experienced professional with a passion for technology.",
+        "specialization": "Cardiology",
+        "experience": 96465,
+        "education": "Bachelor's Degree in Computer Science",
+        "certifications": "Certified Project Manager",
+        "created_at": "2023-08-25T09:32:57.358Z",
+        "updated_at": "2023-08-25T04:11:53.663Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb09ff42-a1d6-4d19-bdad-630017187c47",
+        "bio": "Dedicated healthcare provider with a focus on patient care.",
+        "specialization": "Pediatrics",
+        "experience": 46516,
+        "education": "Master's Degree in Nursing",
+        "certifications": "Certified Nurse Practitioner",
+        "created_at": "2023-08-25T09:39:08.131Z",
+        "updated_at": "2023-08-24T13:06:18.210Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "381455e0-3178-4960-b8db-b2e310ee55a3",
+        "bio": "Enthusiastic educator with a commitment to student success.",
+        "specialization": "Orthopedics",
+        "experience": 639,
+        "education": "PhD in Psychology",
+        "certifications": "Certified Psychologist",
+        "created_at": "2023-08-24T16:41:36.641Z",
+        "updated_at": "2023-08-25T00:10:40.736Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9234ef1e-9a5b-4fb0-9bf4-9d3ccf296b5d",
+        "bio": "Skilled engineer with expertise in mechanical design.",
+        "specialization": "Dermatology",
+        "experience": 96934,
+        "education": "Bachelor's Degree in Mechanical Engineering",
+        "certifications": "Certified Professional Engineer",
+        "created_at": "2023-08-24T13:24:40.410Z",
+        "updated_at": "2023-08-25T04:33:22.355Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3fd04a0b-8415-4f7e-aa02-b8dead285192",
+        "bio": "Creative artist with a unique perspective on the world.",
+        "specialization": "Neurology",
+        "experience": 47040,
+        "education": "Master's Degree in Fine Arts",
+        "certifications": "Certified Art Therapist",
+        "created_at": "2023-08-24T13:51:29.669Z",
+        "updated_at": "2023-08-24T12:49:34.368Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "patient_record": [
+      {
+        "id": "52d1b70f-9e7c-4571-9684-570356d033fe",
+        "medical_history": "No significant medical history.",
+        "current_condition": "Common cold",
+        "medications": "Acetaminophen",
+        "allergies": "Peanuts",
+        "immunization_record": "Flu vaccine",
+        "created_at": "2023-08-24T19:20:29.797Z",
+        "updated_at": "2023-08-25T08:36:09.612Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "0c01fe1f-431a-414f-8da9-dd7d8e080a12",
+        "medical_history": "History of allergies and asthma.",
+        "current_condition": "Sprained ankle",
+        "medications": "Ibuprofen",
+        "allergies": "Penicillin",
+        "immunization_record": "Tetanus shot",
+        "created_at": "2023-08-25T02:37:11.546Z",
+        "updated_at": "2023-08-25T00:59:11.167Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "7925021c-b681-42e7-bba3-5bc8037c0558",
+        "medical_history": "Previous surgeries: appendectomy and tonsillectomy.",
+        "current_condition": "High blood pressure",
+        "medications": "Lisinopril",
+        "allergies": "Cats",
+        "immunization_record": "MMR vaccine",
+        "created_at": "2023-08-24T18:01:16.135Z",
+        "updated_at": "2023-08-25T07:48:03.843Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "0bb08260-98bd-4953-b1e0-f231bdd55034",
+        "medical_history": "Chronic condition: diabetes.",
+        "current_condition": "Seasonal allergies",
+        "medications": "Flonase",
+        "allergies": "Pollen",
+        "immunization_record": "Hepatitis B vaccine",
+        "created_at": "2023-08-24T20:51:30.384Z",
+        "updated_at": "2023-08-24T18:20:45.358Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      },
+      {
+        "id": "18fa773c-8aea-45f7-8e8f-22d7a9413d00",
+        "medical_history": "History of heart disease in the family.",
+        "current_condition": "Migraine headache",
+        "medications": "Sumatriptan",
+        "allergies": "Shellfish",
+        "immunization_record": "Pneumococcal vaccine",
+        "created_at": "2023-08-25T11:29:44.581Z",
+        "updated_at": "2023-08-25T07:05:23.599Z",
+        "guest_id": "user_entity_pk",
+        "medical_staff_id": "user_entity_pk"
+      }
+    ],
+    "insurance_plan": [
+      {
+        "id": "5ee4ad41-91c2-459b-9a2f-7e6cc297d322",
+        "plan_name": "Gold Plan",
+        "coverage": 63019,
+        "premium": 80671,
+        "deductible": 83977,
+        "out_of_pocket_maximum": 99379,
+        "created_at": "2023-08-25T02:29:06.918Z",
+        "updated_at": "2023-08-25T10:58:41.572Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "70a8c3c6-d519-484e-804d-9b68cb3d396b",
+        "plan_name": "Silver Plan",
+        "coverage": 67764,
+        "premium": 65204,
+        "deductible": 90357,
+        "out_of_pocket_maximum": 66140,
+        "created_at": "2023-08-25T11:48:34.406Z",
+        "updated_at": "2023-08-24T13:56:51.671Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "5b239ee5-7f57-4765-be45-45ef980d051f",
+        "plan_name": "Bronze Plan",
+        "coverage": 50253,
+        "premium": 26968,
+        "deductible": 10778,
+        "out_of_pocket_maximum": 5335,
+        "created_at": "2023-08-24T19:40:37.573Z",
+        "updated_at": "2023-08-24T20:17:09.196Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "7eb93ac4-3d56-4e16-abff-3ad5841e5aed",
+        "plan_name": "Platinum Plan",
+        "coverage": 87296,
+        "premium": 71214,
+        "deductible": 49595,
+        "out_of_pocket_maximum": 92261,
+        "created_at": "2023-08-25T02:43:32.229Z",
+        "updated_at": "2023-08-24T23:39:07.466Z",
+        "insurance_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "0b21e78b-05e3-435c-94d9-cf35848a5dbf",
+        "plan_name": "Catastrophic Plan",
+        "coverage": 49598,
+        "premium": 89663,
+        "deductible": 5921,
+        "out_of_pocket_maximum": 4719,
+        "created_at": "2023-08-25T10:13:18.466Z",
+        "updated_at": "2023-08-25T05:41:45.778Z",
+        "insurance_provider_id": "user_entity_pk"
+      }
+    ],
+    "appointment": [
+      {
+        "id": "f7d23268-535a-434d-8b63-30e8c579f10f",
+        "date": "2023-08-24T21:39:00.994Z",
+        "time": "2023-08-25T08:26:17.742Z",
+        "status": "Scheduled",
+        "created_at": "2023-08-24T12:52:35.035Z",
+        "updated_at": "2023-08-24T21:13:25.371Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "cfa2d8d3-c531-40e5-83b6-61b5b9771e1a",
+        "date": "2023-08-25T07:20:26.292Z",
+        "time": "2023-08-25T11:01:22.756Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-25T08:47:21.482Z",
+        "updated_at": "2023-08-24T17:12:50.189Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "95964f03-7627-4ea4-a69a-b281cb93d5ea",
+        "date": "2023-08-25T08:23:19.222Z",
+        "time": "2023-08-24T15:30:09.093Z",
+        "status": "Completed",
+        "created_at": "2023-08-24T19:59:41.968Z",
+        "updated_at": "2023-08-24T18:54:16.561Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "eb52bab6-6f2d-4174-b80b-76092c976149",
+        "date": "2023-08-24T18:55:52.357Z",
+        "time": "2023-08-24T21:41:41.376Z",
+        "status": "Rescheduled",
+        "created_at": "2023-08-25T04:08:46.611Z",
+        "updated_at": "2023-08-24T13:05:37.821Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      },
+      {
+        "id": "6f5f4c06-c16f-411e-a5d7-996d6d163de5",
+        "date": "2023-08-24T14:36:00.942Z",
+        "time": "2023-08-25T04:07:07.660Z",
+        "status": "Pending",
+        "created_at": "2023-08-25T01:44:16.262Z",
+        "updated_at": "2023-08-25T06:21:45.533Z",
+        "guest_id": "user_entity_pk",
+        "healthcare_provider_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0362673c-7fd0-4538-a6f4-8dd7fcd0bc08",
+        "email": "Thalia_Gleason-Beahan67@gmail.com",
+        "firstName": "Candida",
+        "lastName": "Ullrich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/825.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b521ccbe-95a7-4b1c-912d-f90e44f85de6",
+        "email": "Maureen_Douglas75@gmail.com",
+        "firstName": "Georgiana",
+        "lastName": "Macejkovic",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/534.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c883e894-60d4-462f-868b-bbf8d795c432",
+        "email": "Tina.Goldner46@hotmail.com",
+        "firstName": "Alda",
+        "lastName": "Schmidt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/944.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "439ee45a-5b93-4075-bc11-12fc7a960268",
+        "email": "Melody.West@hotmail.com",
+        "firstName": "Francisco",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12253883",
+        "tenantId": null
+      },
+      {
+        "reference": "83fa8661-100f-4869-b909-67f669395444",
+        "email": "Kyler.Beer91@yahoo.com",
+        "firstName": "Darwin",
+        "lastName": "Frami",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/29.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
